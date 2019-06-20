@@ -40,7 +40,7 @@ Tests: Unit test openmessaging runtime code and the Functions about RmqTask and 
 # Timeline
 
 | Date               | Work                                                         |
-| :----------------- | ------------------------------------------------------------ |
+| ------------------ | ------------------------------------------------------------ |
 | June 10- June 20   | Get familiar with the RocketMQ, Openmessaging and message   connect refer to relevant information about connector, databases.   Keep diving into Rocket’s code by fixing issues. |
 | June 21 – June 30  | Time for community Bonding, dive into the   architecture of RocketMQ, set up a development environment for coding and   debugging.   Discuss with   mentors about the implementation of the project.    Refer to   related work to get some ideas. |
 | July 1 – July 14   | Write these functions of RocketMQ Connect   JDBC Source Connector:   Incremental Query Modes, Mapping Column   Types |
