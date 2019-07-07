@@ -1,3 +1,8 @@
+---
+typora-copy-images-to: image
+typora-root-url: image
+---
+
 # The Introduction of Kafka Connect
 
 ### Kafka基本介绍
